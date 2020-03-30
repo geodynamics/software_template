@@ -1,4 +1,4 @@
-Template Software Repository - Replace SOFTWARE_NAME in all documents
+Template Repository - Replace SOFTWARE_TEMPLATE in all documents
 ===========================================================
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/geodynamics/repository-template/blob/master/LICENSE)
@@ -32,13 +32,12 @@ Refer to where the user can find instructions on how to run and modify the softw
 Contributing to our software
 ----------------------
 
-Our is a community project that lives by the participation of its
-members — i.e., including you! It is our goal to build an inclusive
-and participatory community so we are happy that you are interested in
-participating! We have collected a set of guidelines and advice on how
-to get involved in the community and keep them in the
-[CONTRIBUTING.md](CONTRIBUTING.md)
-file in the repository.
+SOFTWARE_TEMPLATE is a community project that lives by the participation of its
+members — i.e., including you! It is our goal to build an inclusive and
+participatory community so we are happy that you are interested in
+participating! We have collected a set of guidelines and advice on how to get
+involved in the community and keep them in the
+[CONTRIBUTING.md](CONTRIBUTING.md) file in the repository.
 
 
 
@@ -59,4 +58,4 @@ Include links where to find additional information, such as:
 License
 -------
 
-Our software is published under [GPL v2 or newer](LICENSE).
+This SOFTWARE_TEMPLATE is published under the [MIT license](LICENSE).
