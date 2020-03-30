@@ -1,7 +1,7 @@
 Template Repository - Replace SOFTWARE_TEMPLATE in all documents
 ===========================================================
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/geodynamics/repository-template/blob/master/LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 Link to your zenodo DOI as follows: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2653531.svg)](https://doi.org/10.5281/zenodo.2653531)
 
@@ -20,7 +20,7 @@ The project is supported by CIG (http://geodynamics.org).
 Installation instructions
 -------------------------
 
-Either refer to the INSTALL file, or link to another place where you keep installation instructions.
+Either refer to the [INSTALL](INSTALL) file, or link to another place where you keep installation instructions.
 
 
 Running and extending our software
