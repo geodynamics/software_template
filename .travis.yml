@@ -7,4 +7,4 @@ install:
   - docker build -t geodynamics/software_template docker/
 
 script:
-  - docker run geodynamics/software_template /bin/bash -c "echo SUCCESS"
+  - docker run geodynamics/software_template /bin/bash -c /home/software_template/tests/test.sh
