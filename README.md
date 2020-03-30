@@ -1,8 +1,11 @@
-Template Software Repository - Place your softwares name here
+Template Software Repository - Replace SOFTWARE_NAME in all documents
 ===========================================================
-[![License GPL2:](https://img.shields.io/cran/l/devtools.svg)](https://github.com/geodynamics/repository-template/blob/master/LICENSE)
-# Link to your zenodo DOI as follows: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2653531.svg)](https://doi.org/10.5281/zenodo.2653531)
-# Link to any figshare resources as follows: [![pdf manual](https://img.shields.io/badge/get-PDF-green.svg)](https://doi.org/10.6084/m9.figshare.4865333)
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/geodynamics/repository-template/blob/master/LICENSE)
+
+Link to your zenodo DOI as follows: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2653531.svg)](https://doi.org/10.5281/zenodo.2653531)
+
+Link to any figshare resources as follows: [![pdf manual](https://img.shields.io/badge/get-PDF-green.svg)](https://doi.org/10.6084/m9.figshare.4865333)
 
 About
 -----
