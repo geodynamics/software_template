@@ -1,0 +1,22 @@
+{
+    "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+    "@type": "SoftwareSourceCode",
+    "license": "https://spdx.org/licenses/MIT",
+    "dateCreated": "2020-03-30",
+    "datePublished": "2020-04-15",
+    "name": "software_template",
+    "description": "This is an example repository that follows the best software practices of the Computational Infrastructure for Geodynamics (CIG)",
+    "author": [
+        {
+            "@type": "Person",
+            "@id": "https://orcid.org/0000-0001-7098-8198",
+            "givenName": "Rene",
+            "familyName": "Gassmoeller",
+            "email": "rene.gassmoeller@mailbox.org",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Department of Earth and Planetary Sciences, University of California, Davis"
+            }
+        }
+    ]
+}

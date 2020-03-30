@@ -7,6 +7,7 @@ Link to your zenodo DOI as follows: [![DOI](https://zenodo.org/badge/DOI/10.5281
 
 Link to any figshare resources as follows: [![pdf manual](https://img.shields.io/badge/get-PDF-green.svg)](https://doi.org/10.6084/m9.figshare.4865333)
 
+
 About
 -----
 
@@ -16,17 +17,22 @@ end with the following sentence:
 The project is supported by CIG (http://geodynamics.org).
 
 
-
 Installation instructions
 -------------------------
 
 Either refer to the [INSTALL](INSTALL) file, or link to another place where you keep installation instructions.
 
 
-Running and extending our software
-----------------------------
+Running and extending SOFTWARE_TEMPLATE
+---------------------------------------
 
 Refer to where the user can find instructions on how to run and modify the software. We also recommend adding a quick-start guide here.
+
+
+Citing SOFTWARE_TEMPLATE
+------------------------
+
+Include information about how to cite SOFTWARE_TEMPLATE, e.g. using https://geodynamics.org/cig/abc. We also recomment adding a codemeta file, e.g. generated using https://codemeta.github.io/codemeta-generator/ to make your software citable.
 
 
 Contributing to our software
@@ -47,7 +53,6 @@ More information
 Include links where to find additional information, such as:
  - The official website at ...
  - The current manual at ...
- - How to cite our software: e.g. https://geodynamics.org/cig/abc
  - A link to the forum or mailing list, e.g. https://community.geodynamics.org/
  - Any upstream projects you would like to acknowledge 
  - Names and email addresses of the maintainers and/or AUTHORS 
