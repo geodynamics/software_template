@@ -49,7 +49,7 @@ SOFTWARE_TEMPLATE is free to use and does not require citation or acknowledgemen
 
 Contributing to our software
 ----------------------
-`Describe how to contribute to the project.  Consider pointing to a CONTRIBUTING.MD FILE.`
+`Describe how to contribute to the project. Consider pointing to a CONTRIBUTING.MD FILE.`
 
 SOFTWARE_TEMPLATE is a community project that lives by the participation of its
 members — i.e., including you! It is our goal to build an inclusive and
