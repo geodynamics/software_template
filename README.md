@@ -43,13 +43,13 @@ Citing SOFTWARE_TEMPLATE
 
 `Include information about how to cite SOFTWARE_TEMPLATE. Consider adding citations to both publications and the software itself. For examples, see:` [https://geodynamics.org](https://geodynamics.org/cig/abc).
 
-`We also recommend adding a codemeta file (`codemeta.json`). Generate this file to make your code citable:`[https://codemeta.github.io/codemeta-generator/]( https://codemeta.github.io/codemeta-generator/ ).
+`We also recommend adding a codemeta file (`[codemeta.json](codemeta.json)`). Generate this file to make your code citable:`[https://codemeta.github.io/codemeta-generator/]( https://codemeta.github.io/codemeta-generator/ ).
 
 SOFTWARE_TEMPLATE is free to use and does not require citation or acknowledgement.
 
 Contributing to our software
 ----------------------
-`Describe how to contribute to the project.  Consider pointing to a CONTRIBUTING.MD FILE.`
+`Describe how to contribute to the project. Consider pointing to a CONTRIBUTING.MD FILE.`
 
 SOFTWARE_TEMPLATE is a community project that lives by the participation of its
 members — i.e., including you! It is our goal to build an inclusive and
@@ -64,7 +64,7 @@ Feedback and support
 
 For support, see our forum at: https://community.geodynamics.org/.
 
-To contribute to this project, see `CONTRIBUTING.md`.
+To contribute to this project, see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 
 More information
