@@ -64,7 +64,7 @@ Feedback and support
 
 For support, see our forum at: https://community.geodynamics.org/.
 
-To contribute to this project, see `CONTRIBUTING.md`.
+To contribute to this project, see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 
 More information
