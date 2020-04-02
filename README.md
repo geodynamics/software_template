@@ -43,7 +43,7 @@ Citing SOFTWARE_TEMPLATE
 
 `Include information about how to cite SOFTWARE_TEMPLATE. Consider adding citations to both publications and the software itself. For examples, see:` [https://geodynamics.org](https://geodynamics.org/cig/abc).
 
-`We also recommend adding a codemeta file (`codemeta.json`). Generate this file to make your code citable:`[https://codemeta.github.io/codemeta-generator/]( https://codemeta.github.io/codemeta-generator/ ).
+`We also recommend adding a codemeta file (`[codemeta.json](codemeta.json)`). Generate this file to make your code citable:`[https://codemeta.github.io/codemeta-generator/]( https://codemeta.github.io/codemeta-generator/ ).
 
 SOFTWARE_TEMPLATE is free to use and does not require citation or acknowledgement.
 
