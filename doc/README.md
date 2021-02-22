@@ -1,6 +1,6 @@
 This directory should contain the documentation for your software. For the
-official template of a manual provided by the Computational Infrastructure for
-Geodynamics see here:
+official manual template provided by the Computational Infrastructure for
+Geodynamics, see:
 https://github.com/geodynamics/best_practices/tree/master/software_manual_template
 
 Keep in mind that your code should ideally also use an in-source documentation
