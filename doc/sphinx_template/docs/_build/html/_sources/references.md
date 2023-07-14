@@ -1,0 +1,5 @@
+(sec:references)=
+# References
+
+```{bibliography}
+```
