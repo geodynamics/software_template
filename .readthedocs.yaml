@@ -12,7 +12,7 @@ build:
 
 # Build documentation in the root directory with Sphinx
 sphinx:
-  configuration: ./doc/sphinx_template/docs/conf.py
+  configuration: ./doc/sphinx_template/conf.py
 
 # Optionally build your docs in additional formats such as PDF and ePub
 formats:
@@ -20,4 +20,4 @@ formats:
   - pdf
 
 conda:
-  environment: ./doc/sphinx/environment.yml
+  environment: ./doc/sphinx_template/environment.yml
