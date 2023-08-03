@@ -1,2 +1,0 @@
-(cha:benchmarks)=
-# Benchmarks

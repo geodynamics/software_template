@@ -1,5 +1,0 @@
-(sec:references)=
-# References
-
-```{bibliography}
-```

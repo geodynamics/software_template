@@ -1,3 +1,0 @@
-(cha:cookbooks)=
-# Cookbooks
-
