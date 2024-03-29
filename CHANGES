@@ -1,8 +1,0 @@
-SOFTWARE_TEMPLATE Version history:
-
-SOFTWARE_TEMPLATE 1.0:
-
-We are pleased to announce the release of the CIG Software Template 1.0. This
-template consists of a repository that illustrates our software [best
-practices](https://github.com/geodynamics/best_practices) and allows software
-projects to easily adapt these practices.
