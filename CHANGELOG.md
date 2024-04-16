@@ -14,6 +14,8 @@ This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.htm
 
 ### Added
 
+- Added the LaTex manual template [Rene Gassmoeller; 2024-04-16; https://github.com/geodynamics/software_template/pull/8]
+
 ### Changed
 
 - Switched the change log format from a self-written CHANGES file to the [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) format. [Rene Gassmoeller; 2024-03-29; https://github.com/geodynamics/software_template/pull/7]
